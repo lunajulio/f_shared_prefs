@@ -6,7 +6,7 @@ import 'pages/authentication/login_page.dart';
 import 'pages/home/content.dart';
 
 class MyApp extends StatefulWidget {
-  const MyApp({Key? key}) : super(key: key);
+  const MyApp({super.key});
   @override
   _MyAppState createState() => _MyAppState();
 }
